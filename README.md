@@ -1,10 +1,8 @@
-### Hi there 👋
 
-<!--
-**Akash9284667895/Akash9284667895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h1 align="center">Hi 👋, I'm Akash Lande</h1>
+<h3 align="center">A Passionate Full-Stack Web Developer(MERN Stack)</h3>
+<h3><h2 align="center">Full-stack web developer with a specialization in MERN stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h2></h3>
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center" >
+  <a href="https://www.linkedin.com/in/akash-lande-a174361a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashlande" height="30" width="40" /></a>
+  </p>
